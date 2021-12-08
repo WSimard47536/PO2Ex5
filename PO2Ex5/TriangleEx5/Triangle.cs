@@ -18,7 +18,7 @@ namespace TriangleEx5
         /// Contructeur qui prend les trois côtés en paramètre.
         /// </summary>
         /// <param name="cote1">Premier côté</param>
-        /// <param name="cote2">Seconde côté</param>
+        /// <param name="cote2">Second côté</param>
         /// <param name="cote3">Troisième côté</param>
         public Triangle(int cote1, int cote2, int cote3)
         {

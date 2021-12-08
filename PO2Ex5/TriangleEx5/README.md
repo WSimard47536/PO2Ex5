@@ -31,7 +31,7 @@ Contructeur qui prend les trois côtés en paramètre.
 | Name | Type | Description |
 | ---- | ---- | ----------- |
 | cote1 | [System.Int32](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Int32 'System.Int32') | Premier côté |
-| cote2 | [System.Int32](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Int32 'System.Int32') | Seconde côté |
+| cote2 | [System.Int32](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Int32 'System.Int32') | Second côté |
 | cote3 | [System.Int32](http://msdn.microsoft.com/query/dev14.query?appId=Dev14IDEF1&l=EN-US&k=k:System.Int32 'System.Int32') | Troisième côté |
 
 <a name='M-TriangleEx5-Triangle-GetParameter'></a>
