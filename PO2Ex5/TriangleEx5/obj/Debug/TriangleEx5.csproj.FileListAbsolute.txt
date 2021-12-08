@@ -1,0 +1,6 @@
+C:\Users\1736407\Documents\GitHub\PO2Ex5\PO2Ex5\TriangleEx5\bin\Debug\TriangleEx5.dll
+C:\Users\1736407\Documents\GitHub\PO2Ex5\PO2Ex5\TriangleEx5\bin\Debug\TriangleEx5.pdb
+C:\Users\1736407\Documents\GitHub\PO2Ex5\PO2Ex5\TriangleEx5\obj\Debug\TriangleEx5.csproj.CoreCompileInputs.cache
+C:\Users\1736407\Documents\GitHub\PO2Ex5\PO2Ex5\TriangleEx5\obj\Debug\TriangleEx5.dll
+C:\Users\1736407\Documents\GitHub\PO2Ex5\PO2Ex5\TriangleEx5\obj\Debug\TriangleEx5.pdb
+C:\Users\1736407\Documents\GitHub\PO2Ex5\PO2Ex5\TriangleEx5\bin\Debug\README.xml
